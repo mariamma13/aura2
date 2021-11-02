@@ -1,9 +1,7 @@
 //Programs
 
 
-<section id="faq" class="parallax-section">
-	<div class="container" >
-		<div class="row">
+
 
 			
 
